@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sguiles
 - 👀 I’m interested in becoming a Data Scientist.
-- 🌱 I’m currently learning AI concepts.
+- 🌱 I’m currently learning through Coursera.
 - 💞️ I’m looking to collaborate on entry level projects to help me build my portfolio.
 - 📫 Want to connect? You can reach me via email. Sherrelle.Guiles@gmail.com.
 - 😄 Pronouns: She/Her
